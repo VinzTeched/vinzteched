@@ -18,12 +18,5 @@ I am currently exploring and deepening my knowledge in:
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chibundo-ilonze/) or [Twitter](https://twitter.com/chibundo_vin). I'm always open to interesting conversations and collaboration!
 
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinzteched&show_icons=true&hide_title=true&hide_border=true)](https://github.com/vinzteched)
-
-## 📝 Latest Blog Posts
-
-- //
 
 Thanks for visiting! Feel free to explore my repositories and provide feedback. Let's build something amazing together! 🚀
