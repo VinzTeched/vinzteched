@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**VinzTeched/vinzteched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chibundo Ilonze, a passionate software developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Javascript, Java, PHP, Swift, Python
+- **Frameworks:** React, Laravel, Flask
+- **Databases:** MySQL, Postgres
+- **Tools:** XCode, VSCode, Android Studio
+
+## 🌱 Current Focus
+
+I am currently exploring and deepening my knowledge in:
+- strategies for newer technology
+
+## 📫 Let's Connect!
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chibundo-ilonze/) or [Twitter](https://twitter.com/chibundo_vin). I'm always open to interesting conversations and collaboration!
+
+## 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinzteched&show_icons=true&hide_title=true&hide_border=true)](https://github.com/vinzteched)
+
+## 📝 Latest Blog Posts
+
+- //
+
+Thanks for visiting! Feel free to explore my repositories and provide feedback. Let's build something amazing together! 🚀
