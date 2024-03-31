@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Chibundo Ilonze, a passionate software developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile!
+I'm Chibundo Ilonze, a passionate software developer with love for creating elegant solutions to complex problems. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
