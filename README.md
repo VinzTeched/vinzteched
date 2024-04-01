@@ -13,6 +13,7 @@ I'm Chibundo Ilonze, a passionate software developer with love for creating eleg
 
 I am currently exploring and deepening my knowledge in:
 - strategies for newer technology
+- AI for development
 
 ## 📫 Let's Connect!
 
