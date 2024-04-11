@@ -8,12 +8,13 @@ I'm Chibundo Ilonze, a passionate software developer with love for creating eleg
 - **Frameworks:** React, Laravel, Flask
 - **Databases:** MySQL, Postgres
 - **Tools:** XCode, VSCode, Android Studio
+- **OS:** Linux, macOS, Windows
 
 ## 🌱 Current Focus
 
 I am currently exploring and deepening my knowledge in:
 - strategies for newer technology
-- AI for development
+- AI as a development tool
 
 ## 📫 Let's Connect!
 
