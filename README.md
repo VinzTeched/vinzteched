@@ -4,8 +4,8 @@ I'm Chibundo Ilonze, a passionate software developer with love for creating eleg
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Javascript, Java, PHP, Swift, Python, C
-- **Frameworks:** React, Laravel, Flask
+- **Languages:** Typescript, Java, PHP, Swift, Python, C
+- **Frameworks:** React, Laravel, Vue, Flask
 - **Databases:** MySQL, Postgres
 - **Tools:** XCode, VSCode, Android Studio
 - **OS:** Linux, macOS, Windows
